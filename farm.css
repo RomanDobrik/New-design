@@ -1,0 +1,36 @@
+ body {
+    background-color:#F1CDC2;
+}
+.logo {
+    display: flex;
+    }
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.content img {
+    margin-left: 24px;
+}
+
+
+
+ .button {
+     
+     font-family: Arial, Helvetica, sans-serif;
+     display: block;
+     font-size: 80px; 
+     text-transform: uppercase;
+     text-align: center;
+     background: #75FB4C;
+     color: #E9662C;
+     text-decoration: none;
+}
+
+.button:hover {
+    background-color: #E9662C;
+    color: aliceblue;
+}
+
